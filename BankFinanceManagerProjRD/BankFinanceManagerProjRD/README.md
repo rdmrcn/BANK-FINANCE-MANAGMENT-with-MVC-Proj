@@ -13,7 +13,7 @@ The project is built with a 3-tier architecture, separating the user interface, 
 
 This project demonstrates strong fundamentals in C#, database management, and desktop application development, while focusing on usability, data organization, and clean architecture.
 
-## 👤 Geliştirici
+## 👤 Developer
 
 **Reha Demircan**
 - GitHub: [https://github.com/rdmrcn?tab=repositories)
