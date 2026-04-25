@@ -1,21 +1,68 @@
-💰 Financial CRM - Finansal Müşteri İlişkileri Yönetim Sistemi
+# 💻 Financial CRM - Desktop Finance Management System
 
+Modern ve kullanıcı dostu bir **finans yönetim uygulaması**.  
+C# ve .NET teknolojileri kullanılarak geliştirilmiştir.
 
-Financial CRM is a desktop application developed using C# Windows Forms and Entity Framework, designed to help users manage their personal financial data in a simple and organized way. The system provides a secure login mechanism with user authentication and session management, ensuring that each user can safely access and manage their own data.
+---
 
-The application allows full management of bank accounts, including creating, updating, and tracking financial transactions such as income and expenses. Users can monitor their balances dynamically as the system automatically calculates and updates financial data based on transactions.
+## 🎯 Overview
 
-In addition, the project includes a spending management module where users can categorize their expenses and analyze them based on different filters such as date or category. A billing system is also implemented to manage recurring or one-time payments, making it easier to keep track of financial responsibilities.
+Financial CRM, kullanıcıların banka hesaplarını, harcamalarını ve faturalarını kolayca yönetmesini sağlayan bir masaüstü uygulamasıdır.
 
-To provide better insights, the application features a dashboard with graphical visualizations and real-time statistics. Users can quickly understand their financial situation through charts and summarized data.
+✔ Güvenli giriş sistemi  
+✔ Gerçek zamanlı dashboard  
+✔ Grafiklerle veri analizi  
+✔ Modern UI tasarımı  
 
-The project is built with a 3-tier architecture, separating the user interface, business logic, and data access layers. It also uses the Repository Pattern to maintain clean and maintainable code structure. The database is managed with SQL Server and integrated using Entity Framework.
+---
 
-This project demonstrates strong fundamentals in C#, database management, and desktop application development, while focusing on usability, data organization, and clean architecture.
+## 🖼️ Screenshots
 
-## 👤 Geliştirici
+### 🔐 Login Screen
+![Login](./images/login.png)
 
-**Reha Demircan**
-- GitHub: [https://github.com/rdmrcn?tab=repositories)
-- Email: [rdemircan2006gmail.com]
+### 📊 Dashboard
+![Dashboard](./images/dashboard.png)
 
+---
+
+## ⚙️ Technologies Used
+
+- 💻 C# (Windows Forms)
+- ⚙️ .NET Framework
+- 🗄️ Microsoft SQL Server (SQL)
+- 🔗 Entity Framework
+- 📊 Chart Controls (Data Visualization)
+
+---
+
+## ✨ Features
+
+- 🔐 User Authentication System  
+- 📊 Dashboard with Charts & Analytics  
+- 🏦 Bank Account Management  
+- 💸 Expense Tracking  
+- 📑 Bill & Payment Management  
+- 🎨 Modern Dark UI Design  
+
+---
+
+## 🧠 Architecture
+
+Proje, temiz ve sürdürülebilir bir yapı için:
+
+- 3-Tier Architecture  
+- Repository Pattern  
+- Entity Framework ORM  
+
+kullanılarak geliştirilmiştir.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+1. Repo'yu klonla
+2. Visual Studio ile aç
+3. SQL bağlantısını ayarla
+4. Projeyi çalıştır
