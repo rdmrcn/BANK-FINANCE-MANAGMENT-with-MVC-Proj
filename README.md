@@ -28,15 +28,17 @@ The main goal of this project is to demonstrate practical skills in:
 
 ### 🔐 Login Screen
 
-<img width="862" height="1022" alt="Login Screen" src="YOUR_LOGIN_IMAGE_LINK_HERE" />
+<img width="862" height="1022" alt="Screenshot 2026-04-26 003506" src="https://github.com/user-attachments/assets/5d608354-e075-412a-b83a-a971e0dfd651" />
+
 
 ### 📊 Dashboard
 
-<img width="1098" height="691" alt="Dashboard Screen" src="YOUR_DASHBOARD_IMAGE_LINK_HERE" />
+<img width="1099" height="691" alt="Screenshot 2026-04-26 003519" src="https://github.com/user-attachments/assets/6fbad7cb-000f-438a-beb2-1195835878cb" />
 
-### 🧭 Main Menu
 
-<img width="1002" height="752" alt="Main Menu Screen" src="YOUR_MENU_IMAGE_LINK_HERE" />
+### 🧭 Copyrigiht
+
+<img width="1002" height="752" alt="Screenshot 2026-04-26 003523" src="https://github.com/user-attachments/assets/dfed7737-a804-4a74-8202-4fc8306edffc" />
 
 ---
 
