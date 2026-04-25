@@ -19,10 +19,15 @@ Financial CRM, kullanıcıların banka hesaplarını, harcamalarını ve fatural
 ## 🖼️ Screenshots
 
 ### 🔐 Login Screen
-![Login](./images/login.png)
+![Login](<img width="862" height="1022" alt="Screenshot 2026-04-26 003506" src="https://github.com/user-attachments/assets/3bd778f9-6f36-422c-8f6d-519994ba3e66" />
+)
 
 ### 📊 Dashboard
-![Dashboard](./images/dashboard.png)
+![Dashboard](<img width="1099" height="691" alt="Screenshot 2026-04-26 003519" src="https://github.com/user-attachments/assets/13e095b2-7cbd-49e8-9ef1-3157249cbc98" />
+)
+
+
+<img width="1002" height="752" alt="Screenshot 2026-04-26 003523" src="https://github.com/user-attachments/assets/f84f2571-0c14-4067-a3c4-94a425c5bc5e" />
 
 ---
 
